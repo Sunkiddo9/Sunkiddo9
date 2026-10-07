@@ -5,7 +5,7 @@
 
 # Hi there, I'm Vikram 👋
 
-### 💻 Computer Science Engineering Student | C++ & Java Developer | AI & Full-Stack Enthusiast
+### 💻 Information Technology Student | C++ & Java Developer | AI & Full-Stack Enthusiast
 
 </div>
 
@@ -13,20 +13,16 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Vikram Yadav**, a Computer Science Engineering student who
-enjoys building projects, solving problems with Data Structures &
-Algorithms, and exploring new technologies.
+Hey! I'm **Vikram Yadav**, an Information Technology student who enjoys
+building projects, solving problems with Data Structures & Algorithms,
+and exploring new technologies.
 
-- 🎓 B.Tech Computer Science Engineering
+- 🎓 B.Tech Information Technology — Expected Graduation: **2028**
 - 💻 I mainly code in **C++**
 - ☕ Learning and building with **Java**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🤖 Interested in **AI & Generative AI**
-- 🌐 Exploring **Full-Stack Development**
 - 🚀 Love turning ideas into working projects
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -55,11 +51,59 @@ Feel free to reach out for collaboration, projects or just to connect!
 
 ## 💼 Internship Experience
 
-### 🏢 CLK Internship
+### 🤖 CLK Digital Solutions — AI & Automation Engineering Intern
 
-Currently gaining practical industry experience through my **CLK
-internship**, working in a professional development environment and
-applying my programming and problem-solving skills to real-world tasks.
+Successfully completed my internship with **CLK Digital Solutions**, where
+I worked with the **AI & Automation Engineering Department** and gained
+hands-on exposure to technical and strategic workflows.
+
+📅 **Duration:** August 01, 2026 – September 02, 2026
+
+During the internship, I actively engaged with different aspects of the
+AI & Automation Engineering Department. The experience helped me develop
+a better understanding of technical workflows, project activities, and
+the practical application of concepts in a professional environment.
+
+### Key Highlights
+
+- 🤖 Exposure to **AI & Automation Engineering**
+- 💻 Hands-on experience with technical workflows
+- ⚙️ Understanding of automation-oriented processes
+- 🧠 Improved technical and problem-solving skills
+- 📚 Gained practical industry experience
+- 🤝 Collaborated within a professional team environment
+- 🚀 Developed a stronger understanding of real-world project workflows
+
+**Internship Status:** ✅ Successfully Completed
+
+---
+
+### 🤖 Decodelabs — Virtual Internship Program in Artificial Intelligence
+
+Successfully completed the **Decodelabs Global Internship Program** in
+**Artificial Intelligence (AI)**.
+
+📅 **Duration:** September 03, 2026 – October 03, 2026
+
+During the internship, I worked on hands-on problem-solving activities
+and real-world project-based tasks related to Artificial Intelligence.
+
+The internship helped me strengthen my practical understanding of AI,
+improve my problem-solving approach, and gain experience working on
+projects in a collaborative environment.
+
+### Key Highlights
+
+- 🤖 Practical exposure to **Artificial Intelligence**
+- 🧠 Hands-on problem-solving experience
+- 💻 Worked across real-world project-based tasks
+- 🤝 Collaborative development experience
+- 📚 Improved practical understanding of AI concepts
+- 🚀 Strengthened consistency, dedication, and technical skills
+
+**Internship Status:** ✅ Successfully Completed
+
+**Certificate:** Decodelabs Global Internship Credential
 
 ---
 
@@ -122,12 +166,14 @@ for students to manage their finances effectively.
 
 | Project | Description |
 |--------|-------------|
+| 👁️ **AI-TextVision** | C++ OCR application using OpenCV and Tesseract |
+| 🎬 **AI-System** | C++ movie recommendation system based on genre matching |
+| 📊 **Classifier** | Student performance classification project |
 | 🤖 **Ricked-Chatbot** | C++ based AI Chatbot |
 | 🧠 **CampusCortex** | AI-powered student psychological support system |
-| 🍔 **Smart Canteen** | Digital ordering & queue management |
+| 🍔 **Smart Canteen** | Full-stack digital ordering and queue management system |
 | 💰 **SmartBudget** | Gen AI budgeting application |
 | 🔐 **SkillProof** | Decentralized freelancer identity platform |
-
 ---
 
 ## 📊 GitHub Stats
