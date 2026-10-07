@@ -111,30 +111,98 @@ projects in a collaborative environment.
 
 ### 🤖 Ricked-Chatbot
 
-My latest project — a **C++ based AI Chatbot**.
+My C++ based AI chatbot project focused on building an interactive
+terminal-based conversational system.
 
-🔗 **[View Ricked-Chatbot →](https://github.com/Sunkiddo9/Ricked-Chatbot)**
+The chatbot can handle greetings, basic conversations, study tips,
+AI and C++ related questions, jokes, time queries, help commands, and
+unknown inputs.
+
+🔗 [**View Ricked-Chatbot →**](https://github.com/Sunkiddo9/Ricked-Chatbot)
+
+---
+
+### 🍔 Smart Canteen Management System
+
+A full-stack digital canteen management system designed to make college
+food ordering faster and more organized.
+
+Students can browse food items, place orders, receive token numbers,
+select payment methods, and track their orders.
+
+The project uses **Next.js, React.js, Node.js, Express.js, MongoDB,
+Mongoose, and Axios**.
+
+The backend has also been improved with better error handling and a
+MongoDB-based counter system for order token generation.
+
+🔗 [**View Smart Canteen →**](https://github.com/Sunkiddo9/smart-canteene)
 
 ---
 
 ### 🧠 CampusCortex
 
 A digital mental health and psychological support platform designed
-for students, featuring an AI chatbot and community support.
+for students.
 
----
-
-### 🍔 Smart Canteen Management System
-
-A digital canteen management solution designed to reduce queues using
-digital ordering, token management and cashless payments.
+The platform focuses on providing students with an accessible
+environment for psychological support, AI-based assistance, and
+community interaction.
 
 ---
 
 ### 💰 SmartBudget
 
 A Generative AI-powered budgeting application designed specifically
-for students to manage their finances effectively.
+for students.
+
+The project focuses on helping students manage their finances,
+understand their spending habits, and make better budgeting decisions
+with the help of AI-powered features.
+
+---
+
+### 👁️ AI TextVision
+
+A C++ based OCR application that combines **OpenCV** and **Tesseract
+OCR** to extract text from images.
+
+The project includes image preprocessing, grayscale conversion,
+Gaussian blur, adaptive thresholding, OCR extraction, and confidence
+analysis.
+
+It also classifies OCR results based on an **80% confidence threshold**
+and saves the recognized text for further use.
+
+**Technologies:** C++17, OpenCV, Tesseract OCR, CMake, vcpkg
+
+🔗 [**View AI-TextVision →**](https://github.com/Sunkiddo9/AI-TextVision)
+
+---
+
+### 🎬 AI Movie Recommendation System
+
+A C++ based movie recommendation system that recommends movies based
+on the genres preferred by the user.
+
+The system compares user preferences with movie genres, calculates a
+matching score, and sorts movies according to their relevance.
+
+**Technologies:** C++17, CMake, STL
+
+🔗 [**View AI-System →**](https://github.com/Sunkiddo9/AI-System)
+
+---
+
+### 📊 Student Performance Classifier
+
+A classification-based project focused on analyzing and classifying
+student performance data.
+
+The project explores data processing and classification concepts
+while working toward predicting student performance categories.
+
+🔗 [**View Classifier →**](https://github.com/Sunkiddo9/Classifier)
 
 ---
 
