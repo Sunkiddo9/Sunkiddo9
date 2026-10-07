@@ -24,7 +24,7 @@ and exploring new technologies.
 - 🤖 Interested in **AI & Generative AI**
 - 🚀 Love turning ideas into working projects
 
-- ---
+---
 
 ## 🤝 Connect With Me
 
@@ -258,16 +258,16 @@ while working toward predicting student performance categories.
 </div>
 
 ---
+## 🎯 My Goals
 
-## 🎯 2026 Goals
-
-- 🚀 Build more real-world projects
-- 🧩 Improve my DSA skills
+- 🚀 Build and deploy more real-world projects
+- 🧩 Strengthen Data Structures & Algorithms
 - ☕ Become stronger in Java
-- 🤖 Explore AI & Generative AI
-- 🌐 Improve Full-Stack development
+- 🤖 Build practical AI & Generative AI applications
+- 🌐 Improve Full-Stack Development skills
 - 💼 Gain more industry experience
-- ⭐ Contribute more to Open Source
+- ⭐ Contribute to Open Source
+- 📚 Continuously learn and explore new technologies
 
 ---
 
