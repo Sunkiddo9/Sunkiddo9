@@ -23,6 +23,9 @@ and exploring new technologies.
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🤖 Interested in **AI & Generative AI**
 - 🚀 Love turning ideas into working projects
+
+- ---
+
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -44,8 +47,6 @@ and exploring new technologies.
 <p>
 Feel free to reach out for collaboration, projects or just to connect!
 </p>
-
-💬 Feel free to reach out for collaboration, projects or just to connect!
 
 ---
 
@@ -107,7 +108,7 @@ projects in a collaborative environment.
 
 ---
 
-## 🚀 I'm Currently Working On
+## 🚀 Projects & Current Work
 
 ### 🤖 Ricked-Chatbot
 
